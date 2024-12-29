@@ -1,16 +1,7 @@
-# todo_task
+Simple To-Do App as Flutter Assignment
 
-A new Flutter project.
+Instructions to run the app :
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Pull the Repository.
+2. Run "Pub Get" Command to install all the dependencies.
+3. Run the main.dart file to Run the App.
