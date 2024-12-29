@@ -27,6 +27,7 @@ class MyApp extends StatelessWidget {
 
     return MaterialApp(
       title: 'To-Do App',
+      debugShowCheckedModeBanner: false,
       theme: themeNotifier.currentTheme,
       home: ToDoScreen(),
     );
